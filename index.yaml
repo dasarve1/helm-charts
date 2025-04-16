@@ -2,13 +2,23 @@ apiVersion: v1
 entries:
   diplomadoarq-helm:
   - apiVersion: v2
+    appVersion: 1.0.1
+    created: "2025-04-16T07:54:03.683754-05:00"
+    description: A Helm chart for Kubernetes
+    digest: cc8866759f70ca011b0ab3199b0872bde0c5322ad6275a379378317b7faf25d2
+    name: diplomadoarq-helm
+    type: application
+    urls:
+    - https://dasarve1.github.io/helm-charts/diplomadoarq-helm-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-04-15T23:29:36.8210563-05:00"
+    created: "2025-04-16T07:54:03.6951068-05:00"
     description: A Helm chart for Kubernetes
     digest: b98e0611bb64dd4f20446bdcc4292f2d7400bf217fc8e943a2d6fc7c647bd9b1
     name: diplomadoarq-helm
     type: application
     urls:
-    - https://dasarve1.github.io/helm-charts/diplomadoarq-helm-0.1.0.tgz
+    - https://dasarve1.github.io/helm-charts/helm-charts/diplomadoarq-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-15T23:29:36.8192902-05:00"
+generated: "2025-04-16T07:54:03.6808682-05:00"
